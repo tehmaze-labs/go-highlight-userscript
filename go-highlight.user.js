@@ -6,8 +6,8 @@
 // @author       Kevin Darlington, Wijnand Modderman-Lenstra
 // @match        https://godoc.org/*
 // @match        https://golang.org/pkg/*
-// @match        https://localhost:6060/*
-// @match        https://127.0.0.1:6060/*
+// @match        http://localhost:6060/*
+// @match        http://127.0.0.1:6060/*
 // @grant        none
 // ==/UserScript==
 

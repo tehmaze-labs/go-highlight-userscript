@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Go[Lang/Doc] Syntax Highlighter
 // @namespace    http://github.com/tehmaze-labs
-// @version      0.1
+// @version      0.2
 // @description  Syntax highlights any <pre> element on the Go or GoDoc site.
 // @author       Kevin Darlington, Wijnand Modderman-Lenstra
 // @match        https://godoc.org/*
